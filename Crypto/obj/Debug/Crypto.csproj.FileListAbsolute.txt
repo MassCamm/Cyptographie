@@ -1,0 +1,10 @@
+C:\Users\Mass\source\repos\Crypto\Crypto\bin\Debug\Crypto.exe.config
+C:\Users\Mass\source\repos\Crypto\Crypto\bin\Debug\Crypto.exe
+C:\Users\Mass\source\repos\Crypto\Crypto\bin\Debug\Crypto.pdb
+C:\Users\Mass\source\repos\Crypto\Crypto\obj\Debug\Crypto.csproj.AssemblyReference.cache
+C:\Users\Mass\source\repos\Crypto\Crypto\obj\Debug\Crypto.Form1.resources
+C:\Users\Mass\source\repos\Crypto\Crypto\obj\Debug\Crypto.Properties.Resources.resources
+C:\Users\Mass\source\repos\Crypto\Crypto\obj\Debug\Crypto.csproj.GenerateResource.cache
+C:\Users\Mass\source\repos\Crypto\Crypto\obj\Debug\Crypto.csproj.CoreCompileInputs.cache
+C:\Users\Mass\source\repos\Crypto\Crypto\obj\Debug\Crypto.exe
+C:\Users\Mass\source\repos\Crypto\Crypto\obj\Debug\Crypto.pdb
